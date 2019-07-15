@@ -9,7 +9,7 @@ export default class BasicForm extends Component {
             <PageHeader heading="Basic Form" />
             <div className="mcc-content mcc-content-max">
             <Panel
-                header={Simple Panel Title}>
+                header={"Simple Panel Title"}>
                     <div className="row">
                         <div className="col-md-6">
                             <div className="form-group">
