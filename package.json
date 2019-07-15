@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@mdsol/sandman": "https://s3.amazonaws.com/mdsol-resources/sandman-npm/mdsol-sandman-1.5.4.tgz",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
